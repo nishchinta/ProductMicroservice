@@ -1,0 +1,7 @@
+organization=nishchinta
+projectKey=nishchinta_ProductMicroservice
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=nishchinta_ProductMicroservice
+ceTaskId=AXKoHRDB__OhXPWk2-IR
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKoHRDB__OhXPWk2-IR

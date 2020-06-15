@@ -1,0 +1,162 @@
+
+_com.management.ProductMS.dto.ProductDTO#createEntity()Lcom/management/ProductMS/entity/Product;l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javav v("1*∞6
+1l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javaw w(…∆
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javaw w(-
+%0'com.management.ProductMS.entity.Product"'com.management.ProductMS.entity.Product€
+ÿ
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javaw w(
+%1"1com.management.ProductMS.entity.Product#<init>()V*/
+-
+%0'com.management.ProductMS.entity.Product◊
+‘
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javaw w(-
+pe'com.management.ProductMS.entity.Product"__id*/
+-
+%0'com.management.ProductMS.entity.ProductàÖ
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javax x(
+%2java.lang.String"Dcom.management.ProductMS.dto.ProductDTO#getBrand()Ljava/lang/String;*+)
+'com.management.ProductMS.dto.ProductDTO2
+getBrand()≠™
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javax x(
+
+%3void"Ecom.management.ProductMS.entity.Product#setBrand(Ljava/lang/String;)V*/
+-
+pe'com.management.ProductMS.entity.Product*
+
+%2java.lang.String2setBrand(Ljava/lang/String;)éã
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javay y(#
+%4java.lang.String"Gcom.management.ProductMS.dto.ProductDTO#getCategory()Ljava/lang/String;*+)
+'com.management.ProductMS.dto.ProductDTO2getCategory()≥∞
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javay y($
+
+%5void"Hcom.management.ProductMS.entity.Product#setCategory(Ljava/lang/String;)V*/
+-
+pe'com.management.ProductMS.entity.Product*
+
+%4java.lang.String2setCategory(Ljava/lang/String;)îë
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javaz z()
+%6java.lang.String"Jcom.management.ProductMS.dto.ProductDTO#getDescription()Ljava/lang/String;*+)
+'com.management.ProductMS.dto.ProductDTO2getDescription()π∂
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javaz z(*
+
+%7void"Kcom.management.ProductMS.entity.Product#setDescription(Ljava/lang/String;)V*/
+-
+pe'com.management.ProductMS.entity.Product*
+
+%6java.lang.String2"setDescription(Ljava/lang/String;)àÖ
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.java{ {(
+%8java.lang.String"Dcom.management.ProductMS.dto.ProductDTO#getImage()Ljava/lang/String;*+)
+'com.management.ProductMS.dto.ProductDTO2
+getImage()≠™
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.java{ {(
+
+%9void"Ecom.management.ProductMS.entity.Product#setImage(Ljava/lang/String;)V*/
+-
+pe'com.management.ProductMS.entity.Product*
+
+%8java.lang.String2setImage(Ljava/lang/String;)ÓÎ
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.java| |(
+%10double"3com.management.ProductMS.dto.ProductDTO#getPrice()D*+)
+'com.management.ProductMS.dto.ProductDTO2
+getPrice()ÉÄ
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.java| |(
+%11void"4com.management.ProductMS.entity.Product#setPrice(D)V*/
+-
+pe'com.management.ProductMS.entity.Product*
+
+%10double2setPrice(D)ÌÍ
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.java} }(
+
+%12int"4com.management.ProductMS.dto.ProductDTO#getProdid()I*+)
+'com.management.ProductMS.dto.ProductDTO2getProdid()Çˇ
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.java} }( 
+%13void"5com.management.ProductMS.entity.Product#setProdid(I)V*/
+-
+pe'com.management.ProductMS.entity.Product*
+
+
+%12int2setProdid(I)ïí
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.java~ ~()
+%14java.lang.String"Jcom.management.ProductMS.dto.ProductDTO#getSubcategory()Ljava/lang/String;*+)
+'com.management.ProductMS.dto.ProductDTO2getSubcategory()ª∏
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.java~ ~(*
+%15void"Kcom.management.ProductMS.entity.Product#setSubCategory(Ljava/lang/String;)V*/
+-
+pe'com.management.ProductMS.entity.Product*
+
+%14java.lang.String2"setSubCategory(Ljava/lang/String;)ïí
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.java ()
+%16java.lang.String"Jcom.management.ProductMS.dto.ProductDTO#getProductName()Ljava/lang/String;*+)
+'com.management.ProductMS.dto.ProductDTO2getProductName()ª∏
+l
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.java (*
+%17void"Kcom.management.ProductMS.entity.Product#setProductName(Ljava/lang/String;)V*/
+-
+pe'com.management.ProductMS.entity.Product*
+
+%16java.lang.String2"setProductName(Ljava/lang/String;)ÔÏ
+n
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javaÄ Ä(
+
+%18int"4com.management.ProductMS.dto.ProductDTO#getRating()I*+)
+'com.management.ProductMS.dto.ProductDTO2getRating()ÑÅ
+n
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javaÄ Ä( 
+%19void"5com.management.ProductMS.entity.Product#setRating(I)V*/
+-
+pe'com.management.ProductMS.entity.Product*
+
+
+%18int2setRating(I)Û
+n
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javaÅ Å(#
+
+%20int"6com.management.ProductMS.dto.ProductDTO#getSellerId()I*+)
+'com.management.ProductMS.dto.ProductDTO2getSellerId()àÖ
+n
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javaÅ Å($
+%21void"7com.management.ProductMS.entity.Product#setSellerId(I)V*/
+-
+pe'com.management.ProductMS.entity.Product*
+
+
+%20int2setSellerId(I)ÌÍ
+n
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javaÇ Ç(
+
+%22int"3com.management.ProductMS.dto.ProductDTO#getStock()I*+)
+'com.management.ProductMS.dto.ProductDTO2
+getStock()Çˇ
+n
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javaÇ Ç(
+%23void"4com.management.ProductMS.entity.Product#setStock(I)V*/
+-
+pe'com.management.ProductMS.entity.Product*
+
+
+%22int2setStock(I)"°
+n
+bC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/dto/ProductDTO.javaÉ É(/
+-
+pe'com.management.ProductMS.entity.ProductB+)
+'com.management.ProductMS.dto.ProductDTO

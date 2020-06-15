@@ -1,0 +1,39 @@
+
+kcom.management.ProductMS.controller.ProductController#deleteproducts(Ljava/lang/Integer;)Ljava/lang/String;z
+pC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/controller/ProductController.java< <("1*Ê
+1z
+pC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/controller/ProductController.java= =(ä
+á
+z
+pC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/controller/ProductController.java= =(
+%0org.slf4j.Logger"__id*E*C7
+5com.management.ProductMS.controller.ProductController"
+loggerÙÖ
+z
+pC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/controller/ProductController.java= =(>
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*)'
+%Request for order removal by buyer {}*
+
+prodidjava.lang.Integer2*info(Ljava/lang/String;Ljava/lang/Object;)‹
+ˆ
+z
+pC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/controller/ProductController.java> >(5
+%2/com.management.ProductMS.service.ProductService"__id*M*K7
+5com.management.ProductMS.controller.ProductController"
+productServiceÞÛ
+z
+pC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/controller/ProductController.java> >('
+
+%3void"Tcom.management.ProductMS.service.ProductService#deleteproducts(Ljava/lang/Integer;)V*7
+5
+%2/com.management.ProductMS.service.ProductService*
+
+prodidjava.lang.Integer2#deleteproducts(Ljava/lang/Integer;)"–
+z
+pC:/Users/Nishchinta/ProductMicroservice/src/main/java/com/management/ProductMS/controller/ProductController.java? ?( 
+Deleted successfully:
+prodidjava.lang.IntegerB97
+5com.management.ProductMS.controller.ProductController

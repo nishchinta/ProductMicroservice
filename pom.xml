@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>User-Microservice</name>
+	<name>Product-Microservice</name>
 	<description>User Buyer  Microservice</description>
 
 	<parent>
@@ -22,6 +22,11 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+		  <sonar.projectKey>nishchinta_ProductMicroservice</sonar.projectKey>
+<sonar.projectKey>nishchinta_ProductMicroservice</sonar.projectKey>
+  <sonar.organization>nishchinta</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>6cb5f3193f31d310a9b927126ccf017c1cc20e6a</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>
